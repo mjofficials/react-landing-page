@@ -41,10 +41,7 @@ const About = () => {
               The leader in interactive VR
             </AboutContentTitle>
             <AboutContentPara>
-              Vivamus magna justo, lacinia eget consectetur sed, convallis at
-              tellus. Donec sollicitudin molestie malesuada. Pellentesque in
-              ipsum id orci porta dapibus. Vivamus suscipit tortor eget felis
-              porttitor volutpat.
+              Founded in 2011, Loopstudios has been producing world-class virtual reality projects for some of the best companies around the globe. Our award-winning creations have tranformed businesses through digital experiences that bind to their brand.
             </AboutContentPara>
           </AboutContentRight>
         </AboutCol>
